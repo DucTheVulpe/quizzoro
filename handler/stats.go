@@ -4,8 +4,8 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/handybots/quizzoro/bot"
-	"github.com/handybots/quizzoro/storage"
+	"github.com/DucTheVulpe/quizzoro/bot"
+	"github.com/DucTheVulpe/quizzoro/storage"
 	tele "gopkg.in/tucnak/telebot.v3"
 )
 
