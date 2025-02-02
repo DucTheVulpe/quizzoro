@@ -6,8 +6,8 @@ import (
 	"os"
 
 	sq "github.com/Masterminds/squirrel"
-	"github.com/handybots/quizzoro/opentdb"
-	"github.com/handybots/quizzoro/storage"
+	"github.com/DucTheVulpe/quizzoro/opentdb"
+	"github.com/DucTheVulpe/quizzoro/storage"
 )
 
 var categories = map[int]string{
