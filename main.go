@@ -6,10 +6,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/handybots/quizzoro/handler"
-	"github.com/handybots/quizzoro/handler/middleware"
-	"github.com/handybots/quizzoro/opentdb"
-	"github.com/handybots/quizzoro/storage"
+	"github.com/DucTheVulpe/quizzoro/handler"
+	"github.com/DucTheVulpe/quizzoro/handler/middleware"
+	"github.com/DucTheVulpe/quizzoro/opentdb"
+	"github.com/DucTheVulpe/quizzoro/storage"
 
 	"github.com/demget/clickrus"
 	"github.com/sirupsen/logrus"
