@@ -4,8 +4,8 @@ import (
 	"github.com/DucTheVulpe/quizzoro/opentdb"
 	"github.com/DucTheVulpe/quizzoro/storage"
 
-	tele "gopkg.in/tucnak/telebot.v3"
-	"gopkg.in/tucnak/telebot.v3/layout"
+	tele "gopkg.in/ttelebot.v3"
+	"gopkg.in/telebot.v3/layout"
 )
 
 func New(h Handler) handler {
