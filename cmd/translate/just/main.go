@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/handybots/quizzoro/storage"
-	"github.com/handybots/quizzoro/translate"
+	"github.com/DucTheVulpe/quizzoro/storage"
+	"github.com/DucTheVulpe/quizzoro/translate"
 
 	tele "gopkg.in/tucnak/telebot.v3"
 	"gopkg.in/tucnak/telebot.v3/layout"
