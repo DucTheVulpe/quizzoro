@@ -2,7 +2,7 @@ package handler
 
 import (
 
-	tele "gopkg.in/ttelebot.v3"
+	tele "gopkg.in/telebot.v3"
 	"gopkg.in/telebot.v3/layout"
 )
 
