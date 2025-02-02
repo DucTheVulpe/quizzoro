@@ -3,7 +3,7 @@ package handler
 import (
 	"database/sql"
 
-	"github.com/handybots/DucTheVulpe/storage"
+	"github.com/DucTheVulpe/quizzoro/storage"
 	tele "gopkg.in/tucnak/telebot.v3"
 )
 
