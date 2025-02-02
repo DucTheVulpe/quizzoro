@@ -1,7 +1,7 @@
 package handler
 
 import (
-	"github.com/handybots/quizzoro/storage"
+	"github.com/DucTheVulpe/quizzoro/storage"
 	tele "gopkg.in/tucnak/telebot.v3"
 )
 
