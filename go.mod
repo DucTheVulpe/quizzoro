@@ -1,4 +1,4 @@
-module github.com/handybots/quizzoro
+module github.com/DucTheVulpe/quizzoro
 
 go 1.14
 
